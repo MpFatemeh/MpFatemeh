@@ -1,9 +1,6 @@
 ### Hi, I'm Fatemeh 👋
 
 I'm a senior backend engineer working mostly in **Kotlin and Spring Boot** on the JVM. Since 2018 I've been building backend systems where correctness matters: wallets with parallel orders, surge pricing fed by Kafka, and chat platforms that can't lose a message.
-### Hi, I'm Fatemeh 👋
-
-I'm a senior backend engineer working mostly in **Kotlin and Spring Boot** on the JVM. Since 2018 I've been building backend systems where correctness matters: wallets with parallel orders, surge pricing fed by Kafka, and chat platforms that can't lose a message.
 
 **Now:** founding backend engineer at [AIR Properties](https://air.properties), an AI-powered real estate platform in Dubai. I took the platform from prototype to production, built its buyer AI chat platform on the WhatsApp Business API, and lead how the team develops with AI using Claude Code.
 
