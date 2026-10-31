@@ -4,7 +4,7 @@ I'm a senior backend engineer working mostly in **Kotlin and Spring Boot** on th
 
 🏠 **Now:** founding backend engineer at [AIR Properties](https://air.properties), an AI-powered real estate platform in Dubai. I took the platform from prototype to production, built its buyer AI chat platform on the WhatsApp Business API, and lead how the team develops with AI using Claude Code.
 
-🚕 **Before:** Tapsi, one of the Middle East's largest ride-hailing platforms. I worked on food and grocery delivery and pricing: delivery wallet concurrency, a reinforcement-learning surge model fed by Kafka events, and a surge pipeline I made far cheaper to run by finding the real bottleneck instead of rewriting it.
+🚕 **Before:** Tapsi, one of the Middle East's largest ride-hailing platforms. I worked on food and grocery delivery and pricing: delivery wallet concurrency, the Kafka pipeline and serving behind a reinforcement-learning surge model built by data scientists, and a surge pipeline I made far cheaper to run by finding the real bottleneck instead of rewriting it.
 
 #### 🛠️ What I work with
 
