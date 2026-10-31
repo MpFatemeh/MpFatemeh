@@ -20,4 +20,4 @@ I'm a senior backend engineer working mostly in **Kotlin and Spring Boot** on th
 
 #### 📫 Contact
 
-💼 [LinkedIn](https://www.linkedin.com/in/fatemeh-mahmudpour) · ✉️ fatemehmahmudpour@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/fatemeh-mahmodpour) · ✉️ fatemehmahmudpour@gmail.com
